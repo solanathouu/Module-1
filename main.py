@@ -71,5 +71,13 @@
 # Print the results of these comparisons
 
 
-is_a_man = True
-is_alive = True
+# is_a_man = True
+# is_alive = False
+
+# homme_vivant = is_a_man or is_alive
+# print(homme_vivant)
+
+a = 15
+b = 4
+
+print(a<b)
