@@ -77,7 +77,7 @@
 # homme_vivant = is_a_man or is_alive
 # print(homme_vivant)
 
-a = 15
-b = 4
+# a = 15
+# b = 4
 
-print(a<b)
+# print(a<b)
